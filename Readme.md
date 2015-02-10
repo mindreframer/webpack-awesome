@@ -7,7 +7,7 @@
   - [An introduction to webpack: Cross develop for Node and the Browser without forking around, 2013.10](http://cuttleblog.tumblr.com/post/63669845272/webpack)
 
 ## Russian
-    - [webpack: 7 бед — один ответ, 2014.12](http://habrahabr.ru/post/245991/)
+  - [webpack: 7 бед — один ответ, 2014.12](http://habrahabr.ru/post/245991/)
       great intro about problems that only(!) Webpack is currently solving
 
 
