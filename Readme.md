@@ -25,4 +25,5 @@
 
 
 ### Presentations
+  - [From Daniel (@unindented) at Yammer](http://slidedeck.io/unindented/webpack-presentation)
   - [Как я перестал бояться и полюбил SVG -- Руслан Каймаков -- MoscowJS 17](http://www.slideshare.net/moscowjs/webpack-7-moscowjs-17)
