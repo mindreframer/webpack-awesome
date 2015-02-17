@@ -5,6 +5,8 @@
     - https://waffle.io/webpack/webpack
 
 
+
+
 ## Articles
   - [Creating a workflow with WebPack, 2014.12](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html)
   - [An introduction to webpack: Cross develop for Node and the Browser without forking around, 2013.10](http://cuttleblog.tumblr.com/post/63669845272/webpack)
@@ -23,6 +25,7 @@
 
 ## Projects
   - https://github.com/petehunt/webpack-howto
+  - [React-Webpack-Cookbook](https://github.com/christianalfoni/react-webpack-cookbook)
   - https://www.snip2code.com/Snippet/109269/Awesome-webpack-config!
 
 
